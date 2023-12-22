@@ -1,12 +1,12 @@
 import React from "react";
 import Card from "./Card";
-import NavBar from "./NavBar";
+import Navbar from "./Navbar";
 import thalliItems from "../thaliItems";
 
 function Thali() {
   return (
     <div>
-      <NavBar />
+      <Navbar />
       <h1>Welcome to the biggest Thali's ordering website </h1>
       <h3>Order Thali's And Grab Upto 20% OFF</h3>
       <h5>ORDER SOON!!</h5>
